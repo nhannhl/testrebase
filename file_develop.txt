@@ -1,2 +1,3 @@
 branch develop line 1
 update from branch feature 2
+feature 3
